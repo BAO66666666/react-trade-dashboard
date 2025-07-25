@@ -1,0 +1,19 @@
+{
+  "name": "react-trade-dashboard",
+  "version": "1.0.0",
+  "description": "每日综合交易推荐仪表盘",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "keywords": [],
+  "author": "你的名字",
+  "license": "MIT"
+}
